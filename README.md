@@ -1,5 +1,5 @@
-# **PROJECT EAST STREET!**
-![Логотип PROJECT EAST STREET](Projest east street/Projest east street.jpg)
+# **PROJECT EAST STREET**
+![Логотип](img/Projesteaststreet.jpg)
 
 _Мы молодая амбициозная команда готовая помочь реализовать Ваши мечты!_
 
@@ -10,6 +10,6 @@ _Мы молодая амбициозная команда готовая пом
 
 _Узнать больше о нашей команде можно на странице:_ «[О нас](ABOUTUS/ABOUTUS.md)»
 
-Наши контакные данные:
+_Наши контакные данные:_
 - +7(999)-888-77-66
 - ProjestEastStreet@test.ru
